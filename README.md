@@ -39,26 +39,3 @@ Security Rules
 ✔ Authority-only routes locked
 ✔ Passkey never stored in plain text
 ✔ No user can edit another user’s data
-Split Work Between 3 People 
-
-👤 Person 1 – Backend & Database
-    •    Database design
-    •    User model
-    •    Authentication logic
-    •    Approval system
-    •    Unique ID generation
-    •    Role checking (user vs authority)
-
-👤 Person 2 – Frontend (UI/UX)
-    •    Sign up & login pages
-    •    Forms (registration)
-    •    Schedule display (weekly view)
-    •    Admin dashboard UI
-    •    Responsive design
-
-👤 Person 3 – Schedule Logic & Integration
-    •    Weekly schedule structure
-    •    Schedule CRUD (create/read/update/delete)
-    •    Connect backend to frontend
-    •    Testing user vs authority permissions
-    •    Bug fixing & polishing
